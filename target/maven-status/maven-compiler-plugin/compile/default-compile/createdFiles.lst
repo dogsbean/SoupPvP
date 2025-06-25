@@ -1,0 +1,11 @@
+org\terradon\soup\listener\KitListener$1.class
+org\terradon\soup\listener\RefillListener.class
+org\terradon\soup\combattag\listener\CombatTagListener.class
+org\terradon\soup\listener\RefillListener$1.class
+org\terradon\soup\listener\PlayerListener.class
+org\terradon\soup\listener\BasicListener.class
+org\terradon\soup\cmds\SetSpawnCommand.class
+org\terradon\soup\listener\KitListener.class
+org\terradon\soup\Soup.class
+org\terradon\soup\cmds\SpawnCommand.class
+org\terradon\soup\listener\CooldownListener.class

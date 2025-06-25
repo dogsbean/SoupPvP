@@ -1,0 +1,12 @@
+name: SoupPvP
+main: org.terradon.soup.Soup
+version: ${project.version}
+commands:
+  setspawn:
+    description: set spawn
+    usage: /setspawn
+    aliases: [spawnset, setlobby]
+  spawn:
+      description: teleport to spawn
+      usage: /spawn
+      aliases: [spawn, lobby]
