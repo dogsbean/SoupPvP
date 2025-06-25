@@ -1,5 +1,5 @@
 name: SoupPvP
-main: org.terradon.soup.Soup
+main: io.dogsbean.soup.Soup
 version: ${project.version}
 commands:
   setspawn:
